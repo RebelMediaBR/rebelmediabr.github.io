@@ -1044,6 +1044,7 @@ Service Styles
 .service-content {
   float: left;
   width: calc(100% - 100px);
+  min-height: 185px;
 }
 
 .service-title {
